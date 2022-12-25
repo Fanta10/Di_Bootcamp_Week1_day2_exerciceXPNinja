@@ -1,0 +1,140 @@
+.droite{
+    position: absolute;
+    background-color: purple;
+   
+    height: 404px;
+    width:300px;
+    float: left;
+    margin-left: 400px;
+    margin-top: -404px;
+    color: white;
+    
+}
+
+.bird{
+    position: relative;
+    font-size:12px;
+    margin-left: 70px;
+    display: inline;
+}
+.birdp{
+    position: relative;
+    margin-top: 150px;
+}
+.hello{
+    font-size: 17px;
+}
+.foot{
+    position: relative;
+    margin-top: 900px;
+    margin-left: 120px;
+    padding-bottom: -150px;
+    font-weight: bold;
+    
+    float: bottom;
+}
+.p{
+    padding-left: 25px;
+    margin-top: 190px;
+    font-weight: bold;
+    font-size: 13px;
+    width: 60px;
+}
+.c{
+    border-radius: 70% solid black;
+    margin-top: 100px;
+    margin-left: 120px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 0px;
+   
+
+}
+.container{
+   
+    
+    width: 800px;
+    margin-left: 70px;
+    margin-top: -30px;
+    padding: 150px;
+}
+.div1{
+
+    margin-left: 100px;
+    height: 402px;
+    width:300px;
+    border: 1px solid black ;
+    
+    
+}
+b{
+    position: relative;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+h1{
+    text-align: center;
+    padding-top: 35px;
+}
+input{
+    padding: 7px;
+    margin-left: 20px;
+    width: 250px;
+    background-color: lightgrey;
+    border: none;
+}
+p{
+    
+    display: inline;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 15px;
+
+    
+}
+
+.check{
+    position: relative;
+    margin-left: -98px;
+    
+}
+.or{
+    
+    margin-left: 110px;
+    font-size: 12px;
+    margin-top: 500px;
+    font-weight: bold;
+    
+    margin-top: 100px;
+    
+    
+    
+}
+a{
+    position: relative;
+    float: right;
+    padding-right: 14px;
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    margin-top: 2px;
+}
+label{
+    font-size: 15px;
+    margin-left: -120px;   
+    
+}
+.btn{
+    background-color: purple;
+    color: white;
+    border: none;
+    width: 260px;
+
+}
+.user{
+    font-size:48px; color:white;
+    position: relative;
+    margin-top: 120px;
+    margin-left: 120px;
+}
